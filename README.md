@@ -1,14 +1,14 @@
-# wetlandPlants - UGS Plant Portal
-Web application that compiles a large data set of wetlands &amp; plant data and displays it on an interactive web map
+# Geologic-Index-Maps - UGS Geologic Index Maps
+UGS geologic index map that organizes geologic maps by the quadrangle/area that they cover and displays them on an interactive web map
 
 Project Manager: 
 Marshall Robinson
 
 Product Manager:
-Diane Menuz
+Marshall Robinson/Grant Willis
 
 Data Manager:
-Martha Jensen
+Mackenzie Cope/Marshall Robinson
 
 Developer:
-Jay Hill
+Lance Weaver/Marshall Robinson
